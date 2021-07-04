@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @souxd
-- 👀 I’m interested in: DOOM
-- 🌱 I’m currently learning: DOOM
-- 💞️ I’m looking to collaborate on: DOOM
-- 📫 How to reach me: DOOM
+
